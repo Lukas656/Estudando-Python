@@ -10,11 +10,6 @@ print(type(test4))
 
 ## Exercicios
 
-# Escreva um programa que leia o valor em metros
-# e o exiba convertido em centimetros e milimetros
-
-# faça um programa que leia  um numero inteiro qualquer e mstre na tela a sua tabuada.
-
 # Crie um programa que leia quanto dinheiro uma pessoa tem na carteira 
 # e mostre quantos Dólares ela pode comprar.
 # considere USS 1,00 = R$ 3,27
